@@ -34,5 +34,6 @@ I’m passionate about open source, security, and making Linux and Android more 
 
 - I love exploring new security tools and making handy scripts for everyday use
 - Always happy to help others get started with Termux or Android kernel hacking
+- Every day I learn something new and implement ideas in code
 
 ---
