@@ -18,7 +18,7 @@ I’m passionate about open source, security, and making Linux and Android more 
 ## 📈 GitHub Stats
 
 ![Andrey-oss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-oss&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-oss&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-oss&exclude_repo=&layout=compact&theme=dark)
 
 ## 🛠️ Tech Stack
 
