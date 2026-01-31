@@ -6,7 +6,6 @@
 
 - **Python3/Shell Developer**
 - **Security Consultant & Web Pentester**
-- **Termux Helper**
 - **Android Kernel Developer**
 
 I’m passionate about open source, security, and making Linux and Android more powerful for users everywhere. Whether it’s hacking on Python scripts, diving into shell automation, or exploring the depths of Android kernels, I love sharing knowledge and helping others
