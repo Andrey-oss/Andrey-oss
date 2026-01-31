@@ -1,7 +1,5 @@
 # Hi there, I'm Andrey-oss! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=Andrey-oss&color=blueviolet)
-
 ## 👤 About Me
 
 - **Python3/Shell Developer**
