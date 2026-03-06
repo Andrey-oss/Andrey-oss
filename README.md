@@ -12,11 +12,6 @@ I’m passionate about open source, security, and making Linux and Android more 
 
 - The Internet (Always online!)
 
-## 📈 GitHub Stats
-
-![Andrey-oss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-oss&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-oss&exclude_repo=kernel_xiaomi_lavender,kernel_lavender_latest,evilhunter_lavender_kernel,nDPI,AMP-Research,AtomPePacker&layout=compact&theme=dark)
-
 ## 🛠️ Tech Stack
 
 - **Languages:** Python3, Shell Script
